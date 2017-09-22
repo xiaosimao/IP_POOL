@@ -1,6 +1,6 @@
 # 爬虫代理
 ### 数据库可用IP截图
-![](/home/shimeng/code/ip/img/数据库截图.png)
+![](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
 ********
 
 > insert_time    
