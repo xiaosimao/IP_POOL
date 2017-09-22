@@ -1,28 +1,27 @@
 # 爬虫代理
 ### 数据库可用IP截图
 ********
-
 ![截图](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
 ********
 
+********
 > **insert_time**    
-插入时间， 在本框架中会有一个脚本根据插入时间与现在时间的时间差来将已经存在一段时间的ip取出来，利用target_url对其重新检测，
+插入时间， 会有一个专门的脚本根据插入时间与现在时间的时间差来将已经存在一段时间的ip取出来，利用target_url对其重新检测，
 如果无法使用，则会将其删除.    
-ip    
+**ip**    
 可用IP    
-response_time    
+**response_time**    
 利用代理IP去访问target_url时的相应时间， 利用requests库的elapsed方法获得， 数据库中的单位为秒    
-source    
+**source**    
 代理IP的来源    
-target_url    
+**target_url**    
 目标网站， 如你你想获得可以访问豆瓣的IP， 那么豆瓣网的网址就是target_url
 
 ********
-
-## 注:请求的框架基于我自己写的一个小框架， 地址在:https://github.com/xiaosimao/AiSpider
+###  注:请求的框架基于我自己写的一个小框架， 地址在:https://github.com/xiaosimao/AiSpider
 ********
 
-## 1. 使用的方法    
+## 1. **使用的方法**    
 * 1.1 在proxy_basic_config.py中对代理IP网站进行配置
 * 1.2 在config.py中对请求框架进行配置
 * 1.3 确保已经正确安装mongodb数据库
