@@ -1,9 +1,11 @@
 # 爬虫代理
 ### 数据库可用IP截图
-![](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
 ********
 
-> insert_time    
+![截图](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
+********
+
+> **insert_time**    
 插入时间， 在本框架中会有一个脚本根据插入时间与现在时间的时间差来将已经存在一段时间的ip取出来，利用target_url对其重新检测，
 如果无法使用，则会将其删除.    
 ip    
