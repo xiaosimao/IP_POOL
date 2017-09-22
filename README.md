@@ -18,7 +18,7 @@
 目标网站， 如你你想获得可以访问豆瓣的IP， 那么豆瓣网的网址就是target_url
 
 ********
-###  注:请求的框架基于我自己写的一个小框架， 地址在:https://github。com/xiaosimao/AiSpider    
+###  注:请求的框架基于我自己写的一个小框架， 地址在:https://github.com/xiaosimao/AiSpider    
 #### 欢迎star以及交流， 我的微信在上面的地址中的readme.md中， 加的话注明: 来自github。    
 
 #### 毕竟是免费IP，质量没得保证，所以还是尽量多找几个网站吧。
