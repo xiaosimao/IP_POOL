@@ -1,4 +1,9 @@
 # 爬虫代理
+### 特点
+- 通过配置文件，即可对IP代理网站进行爬取
+- 构建web服务，提供api接口
+- 获取检测自动化
+
 ### 数据库可用IP截图
 ********
 ![截图](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
