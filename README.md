@@ -7,7 +7,7 @@
 
 ### 数据库可用IP截图
 ********
-![截图](http://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
+![截图](https://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
 ********
 
 ********
