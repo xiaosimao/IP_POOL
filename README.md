@@ -1,4 +1,7 @@
 # 爬虫代理
+# 个人公众号
+![截图](https://qiniu.cuiqingcai.com/wp-content/uploads/2018/02/201802111155445124jhQyer.yasuotu.gif)
+
 # 环境: python 2.7
 ### 特点
 - 通过配置文件，即可对IP代理网站进行爬取
