@@ -11,7 +11,7 @@
 
 ### 数据库可用IP截图
 ********
-![截图](https://qiniu.cuiqingcai.com/wp-content/uploads/2017/09/数据库截图.png)
+![截图](https://github.com/xiaosimao/IP_POOL/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E6%88%AA%E5%9B%BE.png)
 ********
 
 ********
