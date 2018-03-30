@@ -1,6 +1,6 @@
 # 爬虫代理
 # 个人公众号
-![截图](https://qiniu.cuiqingcai.com/wp-content/uploads/2018/02/201802111155445124jhQyer.yasuotu.gif)
+![截图](https://github.com/xiaosimao/IP_POOL/blob/master/%E4%B8%AA%E4%BA%BA%E5%85%AC%E4%BC%97%E5%8F%B7.gif)
 
 # 环境: python 2.7
 ### 特点
