@@ -1,7 +1,9 @@
 # 爬虫代理
 # 个人公众号
 ![截图](https://github.com/xiaosimao/IP_POOL/blob/master/%E4%B8%AA%E4%BA%BA%E5%85%AC%E4%BC%97%E5%8F%B7.gif)
-
+## 有心者给个赞赏，可以留联系方式，提供帮助
+![](https://github.com/xiaosimao/IP_POOL/blob/master/Selection_131.png)
+![](https://github.com/xiaosimao/IP_POOL/blob/master/Selection_132.png)
 # 环境: python 2.7
 ### 特点
 - 通过配置文件，即可对IP代理网站进行爬取
