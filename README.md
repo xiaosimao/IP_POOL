@@ -9,7 +9,7 @@
 最近后台收到了很多小伙伴的反馈说现在免费的ip可以使用的时长太短了，而且免费的多是透明代理，不安全。希望我推荐一个商业级的代理IP，于是有了这个更新，有需要的小伙伴可以试用一下。
 
 ### 地址
-- [IPIDEA官网地址](http://www.ipidea.net/?utm-source=simao&utm-keyword=?simao)
+- [IPIDEA官网地址](https://share.ipidea.net/VLLYbk0KpY2YLdj)
 
 ### 产品介绍(来自官网)
 ```
